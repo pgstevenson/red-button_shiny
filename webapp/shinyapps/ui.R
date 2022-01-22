@@ -14,7 +14,7 @@ library(httr)
 
 #### Environment ----
 
-Sys.setenv(R_CONFIG_ACTIVE = "development")
+Sys.setenv(R_CONFIG_ACTIVE = "production")
 
 #### UI ----
 
