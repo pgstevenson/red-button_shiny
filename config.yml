@@ -1,0 +1,8 @@
+default:
+  api: ""
+
+development:
+  api: "http://localhost/api/v1"
+
+production:
+  api: "http://api:5000"
